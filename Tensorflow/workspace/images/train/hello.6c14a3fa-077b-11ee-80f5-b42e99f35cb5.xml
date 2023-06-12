@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.6c14a3fa-077b-11ee-80f5-b42e99f35cb5.jpg</filename>
+	<path>E:\Machine Learning\diploma project\Tensorflow\workspace\images\collectedimages\hello.6c14a3fa-077b-11ee-80f5-b42e99f35cb5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>258</ymin>
+			<xmax>593</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
